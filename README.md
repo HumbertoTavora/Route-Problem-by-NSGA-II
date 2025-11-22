@@ -8,15 +8,15 @@
 
 ## 📋 Sumário
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Resultados](#resultados)
-- [O Problema](#o-problema)
-- [O Algoritmo](#o-algoritmo)
-- [Como Usar](#como-usar)
-- [Visualizações](#visualizações)
-- [Parâmetros Configuráveis](#parâmetros-configuráveis)
-- [Licença](#licença)
-- [Contato](#contato)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Resultados](#-resultados)
+- [O Problema](#-o-problema)
+- [O Algoritmo](#-o-algoritmo)
+- [Como Usar](#-como-usar)
+- [Visualizações](#-visualizações)
+- [Insights e Conclusões](#-insights-e-conclusões)
+- [Referências](#-referências-principais)
+- [Contato](#-contato)
 
 ---
 
