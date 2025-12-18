@@ -11416,6 +11416,6 @@
         ]
     ],
     "instance_name": "Input_Data",
-    "max_vehicle_number": 10,
-    "vehicle_capacity": 70.0
+    "max_vehicle_number": 20,
+    "vehicle_capacity": 80.0
 }
