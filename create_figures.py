@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 import seaborn as sns
 import os
-from nsga_vrp.NSGA2_vrp import load_instance, routeToSubroute, eval_indvidual_fitness
+from nsga.NSGA2 import load_instance, routeToSubroute, eval_indvidual_fitness
 
 
 # Configuração de estilo científico
